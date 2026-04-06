@@ -73,7 +73,7 @@ const TabsLayout = () => {
                         <TabIcon
                             focused={focused}
                             icon={FontAwesome5}
-                            name="user-alt"
+                            name="briefcase"
                             title="Jobs"
                         />
                     ),
